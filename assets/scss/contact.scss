@@ -1,0 +1,32 @@
+input[type=text], input[type=email], input[type=tel], textarea {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
+    background-clip: padding-box;
+    border: 1px solid var(--primary-color);
+    appearance: none;
+    border-radius: .25rem;
+    width: 100%;
+}
+input[type=submit] {
+    background: var(--light-green);
+    color: white;
+    font-size: 13px;
+    border-radius: 13px;
+    padding: 6px 3px;
+    text-align: center;
+    width: 150px;
+}
+
+label {
+    color: var(--primary-color);
+}
+
+.title {
+    color: var(--primary-color);
+}

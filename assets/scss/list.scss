@@ -1,0 +1,31 @@
+.emphasis-title {
+    font-size: 15px;
+    color: var(--primary-color);
+}
+
+.emphasis-description {
+    font-size: 12px;
+}
+
+.mini-card {
+    height: 150px;
+}
+
+.mini-card div {
+    height: 100%;
+    width: 100%;
+    background-size: cover !important;
+    background-position: center !important;
+    display: block;
+    border-radius: 8px;
+}
+
+.see-more {
+    background: var(--light-green);
+    color: white;
+    font-size: 11px;
+    border-radius: 13px;
+    padding: 6px 3px;
+    text-align: center;
+    width: 150px;
+}

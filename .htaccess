@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteRule ^/?$ views/home.php [NC,L]
+RewriteRule ^home?$ views/home.php [NC,L]
+RewriteRule ^contato?$ views/contact.php [NC,L]
+RewriteRule ^listagem?$ views/list.php [NC,L]
+RewriteRule ^leitura?$ views/read.php [NC,L]

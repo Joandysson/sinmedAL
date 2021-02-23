@@ -67,11 +67,11 @@
         <div class="row">
           <div class="col-sm-12 mt-2 mb-2">
             <div class="row">
-              <div class="col-sm-11 title-default">
+              <div class="col-sm-10 title-default">
                 Notícias
               </div>
-              <div class="col-sm-1">
-                <div class="see-all">
+              <div class="col-sm-2 d-flex justify-content-sm-end">
+                <div class="see-all mt-2">
                   Ver todo
                 </div>
               </div>

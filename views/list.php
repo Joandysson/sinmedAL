@@ -23,11 +23,13 @@
                     </div>
                     <?php for ($i = 0; $i < 16; $i++) { ?>
                         <div class="col-md-3">
-                            <div class="mini-card">
-                                <div style="background-image: url('https://via.placeholder.com/300x400/DDDDDD/808080');"></div>
-                            </div>
-                            <small>10/03/2020</small>
-                            <h2 class="emphasis-title">Restaurante Janga - Ponta Verde</h2>
+                            <a href="leitura">
+                                <div class="mini-card">
+                                    <div style="background-image: url('https://via.placeholder.com/300x400/DDDDDD/808080');"></div>
+                                </div>
+                                <small>10/03/2020</small>
+                                <h2 class="emphasis-title">Restaurante Janga - Ponta Verde</h2>
+                            </a>
                         </div>
                     <?php } ?>
 
